@@ -1,4 +1,4 @@
-# VICO2162Fusion
+# VICOFusion
 #### Video Demo:  <URL HERE>
 #### Description:
 For my final project, I redesigned and reformed the website for a local restaurant called Fusion, which is located near the Ohio University campus in Athens, Ohio. Fusion is a small restaurant that offers a variety of flavorful dishes inspired by Asian and international cuisine. From my personal experience and from word of mouth, the food at Fusion is very delicious and well prepared. However, despite the high quality of the food, I noticed that many people in the local community, including students, are either unaware of the restaurant or have not felt motivated to try it. This gap between the quality of the food and the restaurant’s visibility became the main inspiration for my project.
